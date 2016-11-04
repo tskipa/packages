@@ -1,10 +1,10 @@
     "name": "ext-locale-ka",
-    "type": "locale",
+    "type": "code",
     "creator": "tskipa",
-    "summary": "Georgian Translations",
+    "summary": "Georgian Translations for Sencha ext-locale",
     "detailedDescription": "Georgian Translations for Sencha ext-locale",
-    "version": "1.0.0",
-    "compatVersion": "1.0.0",
+    "version": "1.1.0",
+    "compatVersion": "1.1.0",
     "format": "1",
     "slicer": {
         "js": [

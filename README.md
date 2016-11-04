@@ -1,3 +1,3 @@
 # packages
 
-ext-locale package Georgian v1.0
+Sencha ext-locale package Georgian v1.1
